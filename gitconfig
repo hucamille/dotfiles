@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hug.camille@hotmail.fr
+	name = Camille Hug
